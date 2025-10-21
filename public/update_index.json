@@ -1,0 +1,24 @@
+{
+  "latest": 1802,
+  "base_url": "http://localhost:3000/launcher/update/",
+  "patches": [
+    {
+      "version": 1800,
+      "zip": "1800.zip",
+      "size": 52826794,
+      "sha256": "ab1def2ac7872a896a62ef95aa9571adab057ad3650d5bd44ac815619fd7174c"
+    },
+    {
+      "version": 1801,
+      "zip": "1801.zip",
+      "size": 22,
+      "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+    },
+    {
+      "version": 1802,
+      "zip": "1802.zip",
+      "size": 52827776,
+      "sha256": "ab49819a4c817d1525650e70c4f392d05615db3873cc287859caab98c6c7e5c9"
+    }
+  ]
+}
